@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="100%" src="https://qu.ax/wSYXb.jpg"></img></p>
+<p align="center"><img align="center" width="100%" src="[https://qu.ax/wSYXb.jpg](https://telegra.ph/file/1cc2b51b7c07918ee93ec.jpg)"></img></p>
 
 > This script is 100% free, which uses the api from [AlyaChan-APIs](https://api.alyachan.pro)
 
