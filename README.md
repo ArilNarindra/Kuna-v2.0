@@ -88,8 +88,8 @@ Install buildpack
 
 ```bash
 $ bash install.sh
-$ git clone https://github.com/rifnd/moon-bot
-$ cd moon-bot
+$ git clone https://github.com/ArilNarindra/Kuna-v2.0
+$ cd Kuna-v2.0
 $ npm install
 $ node .
 ```
@@ -170,4 +170,4 @@ module.exports = {
 
 <p align="center">This script is still in development and will continue to be updated, keep an eye on this repository, don't forget to give stars and forks</p>
 
-<p align="center">Adios.....</p># Kuna-v2.0
+<p align="center">Adios.....</p> Kuna-v2.0
